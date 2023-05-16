@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=Header&fontSize=50&text=Ssong.Ch94🙈&fontAlign=30)
+
+[![Ssong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsongCh94)](https://github.com/anuraghazra/github-readme-stats)
