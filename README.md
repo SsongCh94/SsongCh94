@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=Header&fontSize=50&text=Ssong.Ch94🙈&fontAlign=30)
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&animation=fadeIn&section=Header&fontSize=50&text=Ssong.Ch94🙈&fontAlign=30" width="850">
 
-[![Ssong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsongCh94)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=html5&logoColor=#61DAFB"/></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SsongCh94&show_icons=true&theme=tokyonight" width="500">
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsongCh94&layout=compact&theme=tokyonight" width="350">
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SsongCh94&height=250&theme=tokyo-night" width="850">
+</a>
+
