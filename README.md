@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SsongCh94&show_icons=true&theme=tokyonight" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=SsongCh94&show_icons=true&theme=tokyonight" width="475">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsongCh94&layout=compact&theme=tokyonight" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsongCh94&layout=compact&theme=tokyonight" width="325">
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SsongCh94&height=250&theme=tokyo-night" width="750">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SsongCh94&height=250&theme=tokyo-night" width="800">
 </a>
 
