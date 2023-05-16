@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SsongCh94&show_icons=true&theme=tokyonight" width="475">
+  <img src="https://github-readme-stats.vercel.app/api?username=SsongCh94&show_icons=true&theme=tokyonight" width="500">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SsongCh94&height=250&theme=tokyo-night" width="800">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SsongCh94&height=250&theme=tokyo-night" width="825">
 </a>
 
